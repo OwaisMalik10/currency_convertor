@@ -6,7 +6,7 @@ const currency = {
     GBP: 1.26,
     JPY: 0.0066,
     INR: 74.57,
-    PKR: 278,
+    PKR: 250,
     AED: 0.27,
     AUD: 0.66,
 };
